@@ -2,6 +2,8 @@
 
 In this project, three different reinforcement learning algorithms (value iteration, policy iteration and Q-learning) were used to solve two different Markov Decision Process (MDP) problems. The results and performance of these algorithms with the different MDP problems were analyzed and compared.
 
+#### Reinforcement-learning-python
+
 ##.Description of the problems
 1. Frozen Lake
 The Forest Lake  is a typical grid-world environment. The left-up grid is the starting state(S) and the right-down grid is the goal state(G). Other grids are either a frozen state (F) which is safe, or a hole state(H) that the agent needs to avoid. The goal of the agent is to reach the goal state G from the start state S without visiting the hole state H. The episode ends when the agent reaches the goal or falls in a hole. Reward is 1 if the agent reaches G and 0 otherwise.
