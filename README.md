@@ -12,17 +12,22 @@ The three algorithms are implemented by python. For value iteration and policy i
 
 ### Instructions for running the code:
 1. frozen lake problems
-  run the python file FrozenLake.py  to plot graphs and get the statistical data for frozen lake problems. Graphs will be shown in the figs folder
-  
+  run the python file FrozenLake.py  to plot graphs and get the statistical data for frozen lake problems. 
 2. forest management problems
-  run the python file ForestManagement.py  to plot graphs and get the statistical data for forest management problems. Graphs will be shown in the figs folder.
+  run the python file ForestManagement.py  to plot graphs and get the statistical data for forest management problems.
 
 ### Code dependencies:
 Python3.7
+
 mdptoolbox-hiive ==4.0.3.1
+
 scikit-learn == 0.19.2
+
 matplotlib == 0.1.3
+
 numpy == 1.15.1
+
 pandas == 0.23.4
+
 gym == 0.10.5
 
